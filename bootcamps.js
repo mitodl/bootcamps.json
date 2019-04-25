@@ -11,6 +11,7 @@
 	"application_ends" : "04/15/2019",
 	"instructors": [ "", "" ],
 	"image": "http://placehold.it/940x300/999/CCC"
+	"topics": ["Business & Management", " Entrepreneurship", "Innovation"]
 },{
 	"title": "MIT HMS Healthcare Innovation Bootcamp",
 	"short_description": " ",
@@ -22,6 +23,7 @@
 	"enrollment_ends" : "",
 	"instructors": [ "", "" ],
 	"image": "http://placehold.it/940x300/999/CCC"
+	"topics": ["Business & Management", " Entrepreneurship", "Innovation"] 
 },{
 	"title": "MIT HMS Healthcare Innovation Bootcamp",
 	"short_description": " ",
@@ -33,5 +35,6 @@
 	"enrollment_ends" : "",
 	"instructors": [ "", "" ],
 	"image": "http://placehold.it/940x300/999/CCC"
+	"topics": ["Business & Management", " Entrepreneurship", "Innovation"] 
 }
 ]
