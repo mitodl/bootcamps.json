@@ -1,7 +1,7 @@
 [{
 	"title": "MIT HMS Healthcare Innovation Bootcamp",
 	"marketing_url": "https://bootcamp.mit.edu/entrepreneurship/healthcare-innovation/",
-	"short_description": "The MIT-Harvard Medical School Healthcare Innovation Bootcamp"
+	"short_description": "The MIT-Harvard Medical School Healthcare Innovation Bootcamp",
 	"full_description": "The MIT-HMS Healthcare Innovation Bootcamp is a new accelerated-learning program by \
 	                     Harvard Medical School’s Center for Primary Care and the MIT Bootcamps. \
 	
@@ -24,7 +24,7 @@
 	"image": "http://placehold.it/940x300/999/CCC"
 },{
 	"title": "MIT HMS Healthcare Innovation Bootcamp",
-	"short_description": " "
+	"short_description": " ",
 	"location": "Cambridge, MA",
 	"price": "8500",
 	"start_date": "",
@@ -35,7 +35,7 @@
 	"image": "http://placehold.it/940x300/999/CCC"
 },{
 	"title": "MIT HMS Healthcare Innovation Bootcamp",
-	"short_description": " "
+	"short_description": " ",
 	"location": "Cambridge, MA",
 	"price": "8500",
 	"start_date": "",
