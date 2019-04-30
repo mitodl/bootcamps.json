@@ -13,8 +13,9 @@
 	"image": "http://placehold.it/940x300/999/CCC",
 	"topics": ["Business & Management", " Entrepreneurship", "Innovation"]
 },{
-	"title": "MIT HMS Healthcare Innovation Bootcamp",
-	"short_description": " ",
+	"title": "MIT Deep Technology Bootcamp",
+	"marketing_url": "https://bootcamp.mit.edu/deeptech/",
+	"short_description": "Learn about Artificial Intelligence, Internet of Things, and Blockchain from experts at the Massachusetts Institute of Technology.",
 	"location": "Cambridge, MA",
 	"price": "8500",
 	"start_date": "",
@@ -25,9 +26,10 @@
 	"image": "http://placehold.it/940x300/999/CCC",
 	"topics": ["Business & Management", " Entrepreneurship", "Innovation"] 
 },{
-	"title": "MIT HMS Healthcare Innovation Bootcamp",
-	"short_description": " ",
-	"location": "Cambridge, MA",
+	"title": "MIT Technology & Innovation Bootcamp",
+	"marketing_url": "https://bootcamp.mit.edu/entrepreneurship/japan/",
+	"short_description": "Learn innovation from top experts at the Massachusetts Institute of Technology.",
+	"location": "Tokyo, Japan",
 	"price": "8500",
 	"start_date": "",
 	"end_date":"",
