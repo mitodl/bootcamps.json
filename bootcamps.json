@@ -56,7 +56,10 @@
         {"first_name": "Brian", "last_name": "Subirana"}
     ],
     "learning_resource_type": "course",
-    "topics": [],
+    "topics": [
+        {"name": "Business & Management"}, {"name": "Entrepreneurship"}, {"name": "Innovation"},
+        {"name": "Artificial Intelligence"}, { "name": "Blockchain"}, { "name": "Big Data"}
+    ],
     "prices": [{"price": 8500, "mode": "Standard"}]
 },{
     "course_id": "Bootcamp3",
@@ -87,6 +90,6 @@
         {"first_name": "Sascha", "last_name": "L. Schmidt"}
     ],
     "learning_resource_type": "course",
-    "topics": [],
+    "topics": [{"name": "Business & Management"}, {"name": "Entrepreneurship"}, {"name": "Innovation"}],
     "prices": [{"price": 8500, "mode": "Standard"}]
 }]
